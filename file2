@@ -1,0 +1,4 @@
+var first = require('./first')
+
+
+console.log(first.exp_a.fun(1,5));
